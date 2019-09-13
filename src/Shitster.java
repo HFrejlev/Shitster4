@@ -7,6 +7,8 @@ public class Shitster {
     double temp; //angiver din lorts temperatur
     String reminder; //fortæller dig, at du bør gå på toillet.
 
+    // Her er en kommentar
+
     void erdensund() {
         if (health) {
             System.out.println("Sund");
